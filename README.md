@@ -2,6 +2,10 @@
 
 A Small Windows Batch script to set some unavailabe or hidden steam status.
 
+## Download from releases page
+
+https://github.com/mounaimhimself/steam-status/releases/
+
 ## Rename stmst.bat to your liking
 
 If you want to use another command name feel free to rename that file.
